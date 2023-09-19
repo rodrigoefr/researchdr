@@ -2,6 +2,7 @@ Parameters of Clustering Execution for SM Students
 
 -K-Means: 
 n_clusters ranging from 2 to 6
+random_state=0
 
 - Spectral clustering
 n_clusters  ranging from 2 to 6
